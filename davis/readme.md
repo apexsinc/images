@@ -1,2 +1,2 @@
-# davis instruments images
-list of davis instruments philippines images
+# davis images
+list of davis philippines images
